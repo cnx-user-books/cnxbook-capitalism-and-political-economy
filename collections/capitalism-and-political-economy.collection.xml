@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Institute for Humane Studies">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col23558</md:content-id>
     <md:title>Capitalism and Political Economy</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>2ddc3b06-2714-4f67-a035-2205a54bd61a</md:uuid>
-<md:slug>capitalism-and-political-economy</md:slug>
-</metadata>
+    <md:slug>capitalism-and-political-economy</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m64686"/>
     <col:module document="m65166"/>
